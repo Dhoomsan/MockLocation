@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MockMe</string>
+    <string name="google_android_map_api_key">mF7kFKP7Da2Q07g5CDesgtMZ</string>
+    <string name="google_android_map_api_key1">AIzaSyDcclI0vIyb7OX4nOgiMHucXj28XAjB8NA</string>
+    <string name="latitude">lat</string>
+    <string name="longitude">long</string>
+    <string name="single_permission_text">(Click on FAB to check Single permission.\nTo test again, change the app permission in settings or reinstall the app)</string>
+    <string name="developer">1.Settings > About Phone >Software information / Build Number / MiIUI version (tap 7 times) <a href="https://developer.android.com/studio/debug/dev-options.html#enable"><u>Check your device settings</u></a>.\n2. Tap the device version message until you receive a message telling you that you are a developer.\n</string>
+    <string name="mock">1.Go to Settings > Additional settings > Developer options.\n2.Select mock location app like-:"MockMe".\n</string>
+    <string name="note">1.Please make sure that you have enabled <u>"MockMe"</u> app and Device Location.\n2.To mock  Location, drag map and choose location.\n3.Press Play Button to <u>Mock Location</u>, Pause Button to stop service!.\n4.Tap Map Icon to <u>change map layout</u>.</string>
+</resources>
